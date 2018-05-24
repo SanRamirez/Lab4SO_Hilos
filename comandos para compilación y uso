@@ -1,0 +1,5 @@
+para compilar se debe agragar la libreria de manejo de hilos como se muestra en el siguiente comando:
+gcc -Wall  psinfol.c -o exe -lpthread
+
+un ejemplo de su ejecución es:
+ ./exe 22 40 12 13
